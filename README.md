@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # air_quality_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Air-guard
+>>>>>>> 8839c562d92a077e99607e3dd806a0c568a8bb99
